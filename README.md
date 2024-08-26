@@ -11,8 +11,8 @@ I enjoy staying updated with the latest technology trends and continuously impro
 ## 🛠️ Projects I'm Working On
 
 - **[Movie and Series Streaming Web App](https://github.com/kiinshuk/movie-series-streaming)**: Developing a web app to allow users to stream movies and series effortlessly.
-- **[News App](https://github.com/kiinshuk/news-app)**: A platform to stay updated with the latest news from various sources.
-- **[Pokémon Guide](https://github.com/kiinshuk/pokemon-guide)**: An informative guide for Pokémon enthusiasts.
+- **[News App](https://github.com/kiinshuk/NewsSite)**: A platform to stay updated with the latest news from various sources.
+- **[Pokémon Guide](https://github.com/kiinshuk/Pokemonsite)**: An informative guide for Pokémon enthusiasts.
 
 ## 📬 Let’s Connect
 
