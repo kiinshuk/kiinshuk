@@ -4,13 +4,10 @@ Welcome to my GitHub profile! I'm a web developer with a passion for creating dy
 
 ## 🌟 About Me
 
-I am a dedicated web developer specializing in front-end technologies and currently focusing on building a **[Movie and Series Streaming Web App](https://github.com/kiinshuk/movie-series-streaming)**. My goal is to develop a seamless and user-friendly streaming experience. 
-
-I enjoy staying updated with the latest technology trends and continuously improving my skills. I am always looking for opportunities to apply my knowledge and work on innovative projects.
+I am a dedicated web developer specializing in front-end technologies. My goal is to develop seamless and user-friendly applications. I enjoy staying updated with the latest technology trends and continuously improving my skills. I am always looking for opportunities to apply my knowledge and work on innovative projects.
 
 ## 🛠️ Projects I'm Working On
 
-- **[Movie and Series Streaming Web App](https://github.com/kiinshuk/movie-series-streaming)**: Developing a web app to allow users to stream movies and series effortlessly.
 - **[News App](https://github.com/kiinshuk/NewsSite)**: A platform to stay updated with the latest news from various sources.
 - **[Pokémon Guide](https://github.com/kiinshuk/Pokemonsite)**: An informative guide for Pokémon enthusiasts.
 
