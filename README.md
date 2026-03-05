@@ -1,11 +1,3 @@
-# Hi, I'm Kinshuk Sharma
-
-Welcome to my GitHub profile! I'm a web developer with a passion for creating dynamic and engaging applications. I’m currently exploring [React Native](https://reactnative.dev/) and working on various exciting projects.
-
-## 🌟 About Me
-
-I am a dedicated web developer specializing in front-end technologies. My goal is to develop seamless and user-friendly applications. I enjoy staying updated with the latest technology trends and continuously improving my skills. I am always looking for opportunities to apply my knowledge and work on innovative projects.
-
 ## 📬 Let’s Connect
 
 Feel free to reach out to me through any of the following:
